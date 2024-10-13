@@ -1,6 +1,6 @@
 {
     "ModTitle": "Lively Cities",
-    "ModVersion": "1.3.0",
+    "ModVersion": "1.3.1",
     "ModAuthor": "Cliffworms",
     "DFUnity_Version": "1.1.0",
     "ModDescription": "Populates the streets of Daggerfall's cities and settlements with static NPCs.",
@@ -264,6 +264,21 @@
             "IsOptional": false,
             "IsPeer": false,
             "Version": "0.5.0"
+        },
+        {
+            "Name": "ublamf - map blocks addon",
+            "IsOptional": true,
+            "IsPeer": false
+        },
+        {
+            "Name": "unofficial block, location and model fixes",
+            "IsOptional": true,
+            "IsPeer": false
+        },
+        {
+            "Name": "taverns redone",
+            "IsOptional": true,
+            "IsPeer": false
         }
     ]
 }
